@@ -27,3 +27,4 @@ class Canteen{
 		}
 		System.out.println("Ending displayInfo in Canteen");
 	}
+}
