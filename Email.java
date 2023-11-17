@@ -19,3 +19,5 @@ class Email{
 		System.out.println("Email fName:"+this.firstName);
 		System.out.println("Email lastName:"+this.lastName);
 		System.out.println("Ending info in Email");
+	}
+}
